@@ -1,0 +1,33 @@
+---
+layout: default
+title: Tag
+---
+
+{% comment %}
+=======================
+The following part extracts all the categories from your posts and sort categories, so that you do not need to manually collect your categories to a place.
+=======================
+{% endcomment %}
+{% assign rawcats = "" %}
+{% for post in site.posts %}
+	{% assign cats = post.category | join:'|' | append:'|' %}
+	{% assign rawcats = rawcats | append:cats %}
+{% endfor %}
+{% assign rawcats = rawcats | split:'|' | sort %}
+
+{% comment %}
+=======================
+The following part removes dulpicated tags and invalid tags like blank tag.
+=======================
+{% endcomment %}
+{% assign cats = "" %}
+{% for cats in rawcats %}
+	{% if cat != "" %}
+		{% if cats == "" %}
+			{% assign cats = cat | split:'|' %}
+		{% endif %}
+		{% unless cats contains cat %}
+			{% assign cats = cats | join:'|' | append:'|' | append:cat | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
