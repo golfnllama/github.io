@@ -6,7 +6,7 @@ The Presidential Range is located in New Hampshire’s White Mountains. Known fo
 
 After returning from the Smoky Mountains, I had mountains on my mind. The mountains were definitely calling my name. Hearing about the Presidential Range in New Hampshire’s White Mountains from a friend who recently tackled the trek, inspired me and sounded like the perfect way to satsiate my mountain fever. My friend described how the AMC huts along the ridgeline were super convenient and allowed one to trek without the need for much food or a tent. The huts (basically hostels) offer breakfast, dinner and a bunk right off of the trail at three different locations. Grateful for the tip, I became an AMC member to get the discounted hut rate and booked two along my route. Be sure to book early as the huts are very popular (I made reservations two months in advance).
 
-<img src="assets/presidential-traverse/1.jpg">
+<img src="../assets/presidential-traverse/1.jpg">
 
 Trekking from hut to hut (with amazing food service) makes for a much light pack!
 I started my jounrey at the AMC Highland Lodge where I had arranged shuttle transport to the trailhead. My planned route would begin at the Appalachia Trailhead and hike south starting at Mount Madison and ending at Mount Eisenhower. I would be staying at Madison Spring hut the first night and Mizpuh hut the second night. My third and final night would put me back at Highland Lodge, completing a makeshift loop.
