@@ -1,6 +1,6 @@
 ---
-layout: blog2
+layout: blogs-scuba
 title: Scuba Diving
 icon: fa-pencil-alt
-order: 2
+order: 3
 ---
