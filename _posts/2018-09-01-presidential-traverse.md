@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 category: Hiking
 title:  "White Mountains Presidential Traverse"
 ---
