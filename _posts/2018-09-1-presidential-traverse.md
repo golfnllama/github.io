@@ -8,9 +8,9 @@ After returning from the Smoky Mountains, I had mountains on my mind. The mounta
 
 <p align="center">
   <img width="500" src="../assets/presidential-traverse/1.jpg">
+  <i>Trekking from hut to hut (with amazing food service) makes for a much light pack!</i>
 </p>
 
-Trekking from hut to hut (with amazing food service) makes for a much light pack!
 I started my jounrey at the AMC Highland Lodge where I had arranged shuttle transport to the trailhead. My planned route would begin at the Appalachia Trailhead and hike south starting at Mount Madison and ending at Mount Eisenhower. I would be staying at Madison Spring hut the first night and Mizpuh hut the second night. My third and final night would put me back at Highland Lodge, completing a makeshift loop.
 
 
