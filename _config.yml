@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Adventures Above and Below
-subtitle: Living my best life above and below sea level
-description: A hiking, backpacking, mountaineering, scuba diving, and all things outdoors blog
+subtitle: 
+description:
 author:
 email: 
-avatar: assets/images/avatar.jpg
+avatar:
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "" # the subpath of your site, e.g. /blog
