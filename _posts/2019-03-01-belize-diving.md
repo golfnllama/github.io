@@ -1,5 +1,5 @@
 ---
-layout: blogs2
+layout: blog
 category: Scuba
 title:  "Dive Belize"
 ---
