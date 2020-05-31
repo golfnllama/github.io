@@ -46,7 +46,6 @@ The shape of Madison Spring hut soon appeared as I made my way out of the treeli
   
 </p><p align="center">
   <img width="500" src="/../assets/presidential-traverse/7.jpg"><br>
-  <i>Madison Spring Hut with Mount Madison looming in the background</i>
 </p>
 
 <p align="center">
@@ -95,7 +94,7 @@ I soon entered the clouds and the rock scrambles took on an eerie appearance in 
 Between each summit in the Presidential’s are slight descents that provide continuous views of of the surrounding valley. You remain above the treeline on the ridge the entire time, so the views are uninterrupted and make for nice breaks in between peaks. I escaped the clouds of Mount Adams for a brief time before scrambling up Mount Jefferson for much of the same experience, white in every direction. Of course it was a little upsetting that I didn’t get the summit views, but it drove home the fact that nature was in control. I wasn’t guaranteed perfect vistas. This is one of the main reasons I’m attracted to remote hiking. You get to experience the raw components of our planet, the good and the bad. It’s a humbling experience and makes you remember to give thanks for the times when everything goes as planned. Sometimes life doesn’t always go as planned, it’s up to you to call it adventure.
 
 <p align="center">
-  <img width="500" src="/../assets/presidential-traverse/16.jpg"><br>
+  <img width="500" src="/../assets/presidential-traverse/15.jpg"><br>
   <i>Ridge line between summits offered ever-changing views</i>
 </p>
 
@@ -104,8 +103,12 @@ My friend and I crossed paths again after descending Jefferson and worked togeth
 Next up was the iconic Mount Washington. The gradual ascent felt like it was ten times longer than it really was. Hearing the cog train puttering up the mountain was a strange experience, but marked that the summit was approaching. It sounded like a semi-truck barreling down the highway, but the dense fog made it impossible to see, making the sound seem to be coming from everywhere and nowhere at the same time. The silhouette of the weather observatory appeared in the distance and I could make out the massive line of people waiting for a photo opportunity at the Mount Washington sign.
 
 <p align="center">
-  <img width="500" src="/../assets/presidential-traverse/17.jpg"><br>
+  <img width="500" src="/../assets/presidential-traverse/16.jpg"><br>
   <i>Cog train tracks cross the hiking trail in a few areas making for some precarious maneuvers</i>
+</p>
+
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/17.jpg"><br>
 </p>
 
 <p align="center">
@@ -146,29 +149,49 @@ Eisenhower and Pierce were more gradual climbs compared to the northern Presiden
 
 The descent from Pierce (the final peak in the Presidential Range proper) was surprisingly steep. I kept thinking to myself how difficult the trail would have been to climb if I had decided to hike north on the trail instead of south. My final stop of the day was at Mizpuh hut, tucked in the trees just before the steep ascent to Mount Pierce.
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/25.jpg"><br>
+  <i>Mizpuh hut</i>
+</p>
 
-Mizpuh hut
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/26.jpg"><br>
+  <i>Prior to dinner, the hut Croo provide an ecology and mountain skills lesson, which is a really cool experience learning about the life in mountains while it surrounds you.</i>
+</p>
 
-Prior to dinner, the hut Croo provide an ecology and mountain skills lesson, which is a really cool experience learning about the life in mountains while it surrounds you.
 My friend sat down beside me after she returned from summiting Mount Jackson (the last summit I had planned for myself the next day). We were at a table with two guys who were Appalachian Trail alumni, and they started talking about the impact hiking has had on their lives. I was so intrigued and moved by their stories. They started talking about “tramilies” (trail families) that they made along the way. It was at that moment that I experienced what is so far my favorite hiking memory. My friend turned to me and said “I guess you’re my tramily.” Such simple words. Having passed each other multiple times throughout the day and helping eachother along the way, the thought never crossed my mind until now. I don’t know why that statement had such an impact on me, but I will never forget that connection I felt talking to other hiking enthusiasts who 24 hours ago were complete strangers; the power of the trail.
 
 
 The night ended with some star gazing and wine shared with a group of incredible women who hiked in a full box of wine.
 The next morning, I enjoyed a hearty breakfast with my tramily and said our goodbyes, hopeful to one day soon hike together again. I set off to bag what I thought would be my final peak for the trip, Mount Jefferson.
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/27.jpg"><br>
+  <i>Swampy terrain with some nice bridges before Mount Jackson</i>
+</p>
 
-Swampy terrain with some nice bridges before Mount Jackson
 Mount Jackson was a pretty special summit for me as it provided a view of the entire southern section of the Presidential Range. It was humbling looking back at the distance I had covered and the mountains I had climbed. For at least an hour, I took in the scenery reminiscing on my adventure.
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/28.jpg"><br>
+  <i>View from Mount Jackson. The small white dot in the sea of green in the left center is Mizpuh hut.</i>
+</p>
 
-View from Mount Jackson. The small white dot in the sea of green in the left center is Mizpuh hut.
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/29.jpg"><br>
+  <i>Looking back over the Presidential Range I had just conquered.</i>
+</p>
 
-Looking back over the Presidential Range I had just conquered.
 Two hours later, I was back at the AMC Highland Lodge. Still feeling the call of the mountains, I refused to say my hiking was over no matter what my body was telling me. I checked into my bunk room at the lodge and scurried up Mount Webster for my 8th summit.
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/30.jpg"><br>
+  <i>Mount Webster provided outstanding views of Crawford Notch below.</i>
+</p>
 
-Mount Webster provided outstanding views of Crawford Notch below.
 Highland Lodge was having a wine and beer social on the patio that evening. Talk about a perfect way to close out the trip.
 
-
-Wine with a view to close out the trip
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/31.jpg"><br>
+  <i>Wine with a view to close out the trip</i>
+</p>
