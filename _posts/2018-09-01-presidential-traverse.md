@@ -3,10 +3,6 @@ layout: page
 category: Hiking
 title:  "White Mountains Presidential Traverse"
 ---
-<p align="center">
-  <img width="500" src="/../assets/presidential-traverse/1.jpg"><br>
-  <i>Trekking from hut to hut (with amazing food service) makes for a much lighter pack!</i>
-</p>
 The Presidential Range is located in New Hampshire’s White Mountains. Known for its harsh weather and challenging conditions, the trek consists of a 20 mile hike across the exposed ridgeline with summits of Mt. Madison, Adams, Jefferson, Washington, Monroe, Eisenhower, and Pierce. My 2018 summer went out with a bang by tackling the iconic route hiking south along the ridge, making friends, experiencing AMC hut hopping, taking in the views of this beautiful section of the east, and living one of my most memorial hiking experiences.
 
 After returning from the Smoky Mountains, I had mountains on my mind. The mountains were definitely calling my name. Hearing about the Presidential Range in New Hampshire’s White Mountains from a friend who recently tackled the trek, inspired me and sounded like the perfect way to satsiate my mountain fever. My friend described how the AMC huts along the ridgeline were super convenient and allowed one to trek without the need for much food or a tent. The huts (basically hostels) offer breakfast, dinner and a bunk right off of the trail at three different locations. Grateful for the tip, I became an AMC member to get the discounted hut rate and booked two along my route. Be sure to book early as the huts are very popular (I made reservations two months in advance).
