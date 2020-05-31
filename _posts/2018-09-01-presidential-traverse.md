@@ -9,42 +9,71 @@ After returning from the Smoky Mountains, I had mountains on my mind. The mounta
 
 <p align="center">
   <img width="500" src="/../assets/presidential-traverse/1.jpg"><br>
-  <i>Trekking from hut to hut (with amazing food service) makes for a much light pack!</i>
+  <i>Trekking from hut to hut (with amazing food service) makes for a much lighter pack!</i>
 </p>
 
 I started my jounrey at the AMC Highland Lodge where I had arranged shuttle transport to the trailhead. My planned route would begin at the Appalachia Trailhead and hike south starting at Mount Madison and ending at Mount Eisenhower. I would be staying at Madison Spring hut the first night and Mizpuh hut the second night. My third and final night would put me back at Highland Lodge, completing a makeshift loop.
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/2.jpg"><br>
+  <i>AMC’s Highland Lodge. No bad views here.</i>
+</p>
 
-AMC’s Highland Lodge. No bad views here.
 My excitement was through the roof as more and more backpackers joined the shuttle as we cut through the winding roads. It was panoramic views of mountains for the entire ride, and I had fun trying to guess which mountains I would soon be standing atop. I caught sight of the cog train rail line that leads to the summit of Mount Washington and my stomach dropped as I realized that the top was not visible from my vantage point. I was so ready to push my limits and climb these monsters that stood intimadatingly in front of me.
 
 With a quick wave to the shuttle driver, I was off to tackle what has been described as a killer ascent to the base of Mount Madison. It would be about a 4 mile hike with constant elevation gain totaling a little over 3,000 feet. I had plenty of time as Madison Spring hut sat at the base and marked my final destination for the day. Let the climbing begin…..
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/3.jpg"><br>
+  <i>Encouraging words as I begin my ascent…</i>
+</p>
 
-Encouraging words as I begin my ascent….
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/4.jpg"><br>
+  <i>There’s a trail there somewhere. Onwards and upwards!</i>
+</p>
 
-There’s a trail there somewhere. Onwards and upwards!
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/5.jpg"><br>
+  <i>Starting to get above the treeline</i>
+</p>
 
-Starting to get above the treeline
 The shape of Madison Spring hut soon appeared as I made my way out of the treeline and onto the exposed ridge. It was a welcomed sight and the summit of Mount Madison towered behind the hut, making it feel like a doll house. I checked in and found a bunk before heading out to complete the climb to Madison’s summit.
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/6.jpg"><br>
+  <i>Madison Spring Hut with Mount Madison looming in the background</i>
+</p>
 
-Madison Spring Hut with Mount Madison looming in the background
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/7.jpg"><br>
+  <i>Home for the night</i>
+</p>
 
-
-Home for the night
 My excitement got the best of me and I made my Madison summit attempt far too quickly. I arrived at button marking the summit and felt light headed and nausteous. It was at this point that I started to worry that I was not prepared for what lay ahead of me. If one summit climb pushed me to the point of feeling faint, how was I going to bag the other 6? Luckily, it was gorgeous, clear day and a half hour of taking in the views calmed my nerves.
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/8.jpg"><br>
+  <i>At the summit of Madison with Mount Adams and Mount Washington in the distance.</i>
+</p>
 
-At the summit of Madison with Mount Adams and Mount Washington in the distance.
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/9.jpg"><br>
+  <i>A change in perspective: Madison Hut from the summit</i>
+</p>
 
-A change in perspective: Madison Hut from the summit
 Dinner was served promptly at 6pm after the Croo (AMC staff members) welcomed us to their summer home. I felt like I was back at summer camp with their enthusiasm and upbeat chants. The huts are very environmentally friendly as they are off the grid, relying on the Croo to hike down trash and hike in resupplies (mind this is up and down the 3,000 some foot of elevation I had just tackled). One of my favorite lines from the trip was “make friends with your neighbor because you can use their sleeve as a napkin”. Zero-waste and conservation minded for sure; right up my ally. Food was served family style, and I began to understand how thru-hikers get hooked on the comradery of fellow hikers. The strangers turned friends at the table exchanged incredible hiking stories. I was surrounded by people just like me. Humbled by nature, obsessed with pushing their limits and grateful for every minute outside.
 
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/10.jpg"><br>
+  <i>Kitchen setup at Madison Hut</i>
+</p>
 
-Kitchen setup at Madison Hut
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/11.jpg"><br>
+  <i>Badass AMC hut Croo hiking out trash from one of the high mountain huts. They would just lash supplies (and/or trash) to these wooden backboards and seemingly sprint down the trail.</i>
+</p>
 
-Badass AMC hut Croo hiking out trash from one of the high mountain huts. They would just lash supplies (and/or trash) to these wooden backboards and seemingly sprint down the trail.
 I naievly thought that I would be the only one starting my hike early at 5am, but I was greeted by a slew of others prepping their gear and getting their coffee fix in the hut’s cafeteria. Standing before me, the climb to Mount Adams was my wakeup call. I passed my new friend from previous night a few times on the ascent as we stopped at different times to catch our breath.
 
 
