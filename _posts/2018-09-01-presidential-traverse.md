@@ -161,37 +161,39 @@ The descent from Pierce (the final peak in the Presidential Range proper) was su
 
 My friend sat down beside me after she returned from summiting Mount Jackson (the last summit I had planned for myself the next day). We were at a table with two guys who were Appalachian Trail alumni, and they started talking about the impact hiking has had on their lives. I was so intrigued and moved by their stories. They started talking about “tramilies” (trail families) that they made along the way. It was at that moment that I experienced what is so far my favorite hiking memory. My friend turned to me and said “I guess you’re my tramily.” Such simple words. Having passed each other multiple times throughout the day and helping eachother along the way, the thought never crossed my mind until now. I don’t know why that statement had such an impact on me, but I will never forget that connection I felt talking to other hiking enthusiasts who 24 hours ago were complete strangers; the power of the trail.
 
-
-The night ended with some star gazing and wine shared with a group of incredible women who hiked in a full box of wine.
+<p align="center">
+  <img width="500" src="/../assets/presidential-traverse/27.jpg"><br>
+  <i>The night ended with some star gazing and wine shared with a group of incredible women who hiked in a full box of wine.</i>
+</p>
 The next morning, I enjoyed a hearty breakfast with my tramily and said our goodbyes, hopeful to one day soon hike together again. I set off to bag what I thought would be my final peak for the trip, Mount Jefferson.
 
 <p align="center">
-  <img width="500" src="/../assets/presidential-traverse/27.jpg"><br>
+  <img width="500" src="/../assets/presidential-traverse/28.jpg"><br>
   <i>Swampy terrain with some nice bridges before Mount Jackson</i>
 </p>
 
 Mount Jackson was a pretty special summit for me as it provided a view of the entire southern section of the Presidential Range. It was humbling looking back at the distance I had covered and the mountains I had climbed. For at least an hour, I took in the scenery reminiscing on my adventure.
 
 <p align="center">
-  <img width="500" src="/../assets/presidential-traverse/28.jpg"><br>
+  <img width="500" src="/../assets/presidential-traverse/29.jpg"><br>
   <i>View from Mount Jackson. The small white dot in the sea of green in the left center is Mizpuh hut.</i>
 </p>
 
 <p align="center">
-  <img width="500" src="/../assets/presidential-traverse/29.jpg"><br>
+  <img width="500" src="/../assets/presidential-traverse/30.jpg"><br>
   <i>Looking back over the Presidential Range I had just conquered.</i>
 </p>
 
 Two hours later, I was back at the AMC Highland Lodge. Still feeling the call of the mountains, I refused to say my hiking was over no matter what my body was telling me. I checked into my bunk room at the lodge and scurried up Mount Webster for my 8th summit.
 
 <p align="center">
-  <img width="500" src="/../assets/presidential-traverse/30.jpg"><br>
+  <img width="500" src="/../assets/presidential-traverse/31.jpg"><br>
   <i>Mount Webster provided outstanding views of Crawford Notch below.</i>
 </p>
 
 Highland Lodge was having a wine and beer social on the patio that evening. Talk about a perfect way to close out the trip.
 
 <p align="center">
-  <img width="500" src="/../assets/presidential-traverse/31.jpg"><br>
+  <img width="500" src="/../assets/presidential-traverse/32.jpg"><br>
   <i>Wine with a view to close out the trip</i>
 </p>
